@@ -1,0 +1,3 @@
+This is my streaming test.
+I should hear this spoken almost immediately.
+OpenAI TTS is reading this file as it streams audio.
